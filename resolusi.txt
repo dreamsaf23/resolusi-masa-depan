@@ -1,9 +1,9 @@
 RESOLUSI :
 
--Belajar HTML
 -Belajar CSS
 -Konsisten Belajar Javascript
 -Konsisten Belajar PHP
 -Konsisten Belajar Tailwindcss
 -Belajar GIT
 -Belajar API
+-Belajar Framework Javascript
