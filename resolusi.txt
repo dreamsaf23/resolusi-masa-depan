@@ -1,6 +1,7 @@
 RESOLUSI :
 
--Belajar CSS
+-Konsiten Belajar HTML
+-Konsisten Belajar CSS
 -Konsisten Belajar Javascript
 -Konsisten Belajar PHP
 -Konsisten Belajar Tailwindcss
