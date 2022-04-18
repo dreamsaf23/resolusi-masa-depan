@@ -6,5 +6,5 @@ RENCANA SAYA KEDEPAN :
 -Belajar Python
   *Belajar Framework Python
   *Belajar Library Python
--Belajar C#
 -Belajar Java
+-Belajar Golang
