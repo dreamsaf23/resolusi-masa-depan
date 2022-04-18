@@ -10,6 +10,8 @@ RENCANA SAYA KEDEPAN :
   *Belajar Framework C#
   *Belajar Library C#
 -Belajar Java
+  *Belajar Framework Java
+  *Belajar Library Java
 -Belajar Golang
 -Belajar Flutter
 
