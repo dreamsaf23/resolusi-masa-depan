@@ -1,6 +1,8 @@
 RENCANA SAYA KEDEPAN :
 
 -Belajar Ruby
+  *Belajar Framework Ruby
+  *Belajar Library Ruby
 -Belajar Python
 -Belajar C#
 -Belajar Java
