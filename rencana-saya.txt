@@ -7,4 +7,8 @@ RENCANA SAYA KEDEPAN :
   *Belajar Framework Python
   *Belajar Library Python
 -Belajar C#
+  *Belajar Framework C#
+  *Belajar Library C#
 -Belajar Java
+-Belajar Golang
+-Belajar Flutter
