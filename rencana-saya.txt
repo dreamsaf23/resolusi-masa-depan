@@ -8,3 +8,5 @@ RENCANA SAYA KEDEPAN :
   *Belajar Library Python
 -Belajar C#
 -Belajar Java
+-Belajar Golang
+-Belajar Flutter
